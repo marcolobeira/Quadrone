@@ -1,0 +1,12 @@
+.pio/
+.c_cpp
+.db* 
+.vscode/
+.json
+.vscode/launch
+.json
+.vscode/ipch 
+test/README
+lib/README
+platformio.ini
+inc/README
